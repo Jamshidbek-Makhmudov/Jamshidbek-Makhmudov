@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Jamshid Makhmudov commonly used name is James.<br>Currently working at Lowel Private Equity<br> as a Front and developer<br>Busan, South Korea.<br>Learning Blockchain and Back end<br><br>
+I am Jamshid Makhmudov commonly used name is James.<br>Currently working at Lowel Private Equity<br> as a Front and developer<br>Busan, South Korea.<br> Nowadays learning Blockchain <br><br>
 
 
 ## 🌐 Socials:
