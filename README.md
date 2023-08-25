@@ -1,5 +1,5 @@
 # 💫 About Me:
-Jamshid Makhmudov commonly used name - James Adams.<br>Company: Lowel Private Equity<br> position: Fullstack  developer<br>Busan, South Korea.
+Jamshid Makhmudov commonly used name - James Adams.<br>Company:Dataprotec<br> position: Fullstack  developer<br>Daegu, South Korea.
 
 
 ## 🌐 Socials:
