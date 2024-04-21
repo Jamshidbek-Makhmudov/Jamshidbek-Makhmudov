@@ -1,5 +1,10 @@
 # 💫 About Me:
-Jamshid Makhmudov commonly used name - James Adams.  Company:Dataprotec position: Fullstack developer Daegu, South Korea. <p align="right">
+<p align="left">
+  
+
+Jamshid Makhmudov commonly used name - James Adams. \n Company:Dataprotec \n position: Fullstack developer \n Daegu, South Korea.
+</p>
+<p align="right">
   <img width="250" height="250" alt="KL" src="https://kllawingco.netlify.app/KL_avatar_light.png">
   </p>
   <br/>
