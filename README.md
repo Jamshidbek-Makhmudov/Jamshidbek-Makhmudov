@@ -1,10 +1,18 @@
 # 💫 About Me:
-<div style='display:flex; align-items:center; justify-content:space-between'>
+<div style='display:flex; flex-direction:row align-items:center; justify-content:space-between'>
+  <div>
+    
+
 Jamshid Makhmudov commonly used name - James Adams.<br>Company:Dataprotec<br>position: Fullstack developer<br>Daegu, South Korea. <p align="rigth">
+  </div>
+  <div>
+    
+
   <img width="250" height="250" alt="KL" src="https://kllawingco.netlify.app/KL_avatar_light.png">
   <br/>
   <span>Art By <a href="#" alt="James" target="_blank">James</a></span>
 </p>
+  </div>
 </div>
 
 ## 🌐 Socials:
