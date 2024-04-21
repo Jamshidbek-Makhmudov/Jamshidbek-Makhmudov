@@ -1,10 +1,11 @@
 # 💫 About Me:
+<div style='display:flex; align-items:center; justify-content:space-between'>
 Jamshid Makhmudov commonly used name - James Adams.<br>Company:Dataprotec<br>position: Fullstack developer<br>Daegu, South Korea. <p align="rigth">
   <img width="250" height="250" alt="KL" src="https://kllawingco.netlify.app/KL_avatar_light.png">
   <br/>
   <span>Art By <a href="#" alt="James" target="_blank">James</a></span>
 </p>
-
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jamshid-makhmudov) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/#) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/#) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@#) 
