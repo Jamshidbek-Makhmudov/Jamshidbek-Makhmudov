@@ -1,8 +1,9 @@
 # <img height="50" width="50" alt="logo" src="https://jamshid-makhmudov.uz/apple-touch-icon.png" /> About Me:
-<h3>
-  <img height="30" width="30" alt="logo" src="https://jamshid-makhmudov.uz/apple-touch-icon.png" style="vertical-align: middle;" />
-  About Me:
-</h3>
+<span>
+  <img height="30" width="30" alt="logo" src="https://jamshid-makhmudov.uz/apple-touch-icon.png">
+  <strong>About Me:</strong>
+</span>
+
 
 Jamshid Makhmudov commonly used name - James Adams. <br> Company:Dataprotec <br> position: Fullstack developer <br> Daegu, South Korea.
 <br>
