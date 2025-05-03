@@ -1,46 +1,45 @@
 # <img height="30" width="30" alt="logo" src="https://jamshid-makhmudov.uz/apple-touch-icon.png" />   <span style=""><strong>About Me:</strong></span>
-{
-  "PROFILE": {
-    "NAME": "James Adams",
-    "ROLE": "Full-Stack MERN Developer",
-    "GOAL": "To build scalable web and mobile applications, and grow into a senior engineering leadership role."
-  },
-  "TECH_STACK": {
-    "Frontend": ["React", "TypeScript", "Material UI", "Tailwind CSS"],
-    "Backend": ["Node.js", "Express", "NestJS", "Prisma"],
-    "Databases": ["MongoDB", "PostgreSQL"],
-    "Mobile": ["Kotlin", "Swift"],
-    "DevOps": ["Docker", "GitHub Actions"],
-    "State Management": ["Jotai", "React Query"],
-    "Package Managers": ["Yarn", "npm", "pnpm"]
-  },
-  "PROJECTS": [
-    {
-      "name": "Hotel Booking Platform",
-      "description": "Multi-tenant system with client site, hotel admin panel, and super admin dashboard",
-      "stack": ["NestJS", "React", "PostgreSQL", "Prisma"]
-    },
-    {
-      "name": "Community Management App",
-      "description": "Manage clubs, boards, postings, and memberships with fine-grained UI features",
-      "stack": ["React", "Jotai", "React Query", "Material UI"]
-    }
-  ],
-  "OPEN_SOURCE": {
-    "contributions": true,
-    "interests": ["Tooling", "Developer Experience", "Web Performance"]
-  },
-  "LEARNING": {
-    "Current Focus": ["Advanced TypeScript", "System Design", "Scalable Architecture"],
-    "Future Goals": ["Mobile App Deployment", "Advanced CI/CD", "Leadership in Tech Teams"]
-  },
-  "HOBBIES": ["Coding", "Open Source", "Traveling", "Reading Tech Blogs"],
-  "CONTACT": {
-    "GitHub": "https://github.com/yourusername",
-    "LinkedIn": "https://linkedin.com/in/yourprofile",
-    "Email": "your.email@example.com"
-  }
-}
+<hr>
+
+### 📘 How I'd Define Me... Literally
+
+ ```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Sy Rashid'
+     @age = 33
+     @work = [ 'ARTSVP', 'MangoTree Dev' ]
+     @education = [ 'Georgia Tech MSCS', 'Le Wagon', 'HBX/HBS', 'Georgia Tech BSNRE' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Burritos' ]
+   end
+
+   def languages
+     {
+       human: [ 'English', 'Bengali', 'Portuguese', 'Spanish' ],
+       programming: [ 'Ruby', 'Python', 'Javascript', 'SQL', 'C' ]
+      }
+   end
+
+   def current_location
+     'Lisbon, PT'
+   end
+
+   def next_locations
+     [ 'Chamonix, FR' ]
+   end
+
+   def currently
+     {
+       studying: [ 'Natural Language Processing', 'Deep Learning', 'Language of Proofs' ],
+       reading: [ 'The Moral Animal', 'Discrete Mathmatics and Its Applications' ],
+       tinkering: [ 'PR Stacking (Graphite)', 'Quant Trading', 'Frontside Shifty' ]
+      }
+   end
+ end
+ ```
+
+<hr>
+
 
 
 
