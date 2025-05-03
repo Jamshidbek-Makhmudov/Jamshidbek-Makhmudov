@@ -19,9 +19,9 @@ Jamshid Makhmudov commonly used name - James Adams. <br> Company:Dataprotec <br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
+<div align="left">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://jamshid-makhmudov.uz/apple-touch-icon.png" />
+<img height="50" width="50" alt="logo" src="https://jamshid-makhmudov.uz/apple-touch-icon.png" />
 <br />
 
 </div>
