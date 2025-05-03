@@ -1,8 +1,4 @@
-# <img height="20" width="20" alt="logo" src="https://jamshid-makhmudov.uz/apple-touch-icon.png" />   <span style="position: relative; top: -4px;"><strong>About Me:</strong></span>
-<p>
-  <img src="https://jamshid-makhmudov.uz/apple-touch-icon.png" alt="logo" width="30" height="30" style="vertical-align: middle; margin-right: 8px;" />
-  <span style="position: relative; top: -4px;"><strong>About Me:</strong></span>
-</p>
+# <img height="50" width="50" alt="logo" src="https://jamshid-makhmudov.uz/apple-touch-icon.png" />   <span style="position: relative; top: -4px;"><strong>About Me:</strong></span>
 
 
 
