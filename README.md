@@ -5,10 +5,10 @@
 {
   "PROFILE": {
     "fullName": "Jamshid Makhmudov",
-    "NICKNAME": "James Adams",
-    "POSITION": ["Software Engineer"],
-    "ADDRESS": "Daegu, South Korea",
-    "COMPANY":"DATAPROTEC"
+    "nickName": "James Adams",
+    "position": ["Software Engineer"],
+    "address": "Daegu, South Korea",
+    "company":"DATAPROTEC"
   }
 }
 
