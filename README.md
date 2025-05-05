@@ -1,10 +1,10 @@
-# <img height="30" width="30" alt="logo" src="https://jamshid-makhmudov.uz/apple-touch-icon.png" />   <span style=""><strong>About Me:</strong></span>
+#  <img height="30" width="30" alt="logo" src="https://jamshid-makhmudov.uz/apple-touch-icon.png" />   <span style=""><strong>About Me:</strong></span>
 <hr>
 
  ```ruby
 {
   "PROFILE": {
-    "FULLNAME": "Jamshid Makhmudov",
+    "fullName": "Jamshid Makhmudov",
     "NICKNAME": "James Adams",
     "POSITION": ["Software Engineer"],
     "ADDRESS": "Daegu, South Korea",
@@ -33,10 +33,3 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<div align="left">
-
-<img height="50" width="50" alt="logo" src="https://jamshid-makhmudov.uz/apple-touch-icon.png" />
-<br />
-
-</div>
