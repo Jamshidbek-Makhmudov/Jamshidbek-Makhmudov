@@ -7,8 +7,8 @@
     "fullName": "Jamshid Makhmudov",
     "nickName": "James Adams",
     "position": ["Software Engineer"],
-    "address": "Daegu, South Korea",
-    "company":"DATAPROTEC"
+    "address": "Tashkent, Uzbekistan",
+    "company":"payme.uz"
   }
 }
 
