@@ -41,7 +41,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
-`Lua Script`
 ![TypeORM](https://img.shields.io/badge/typeorm-262627.svg?style=plastic&logo=typeorm)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748.svg?style=plastic&logo=prisma)
 ![Mongoose](https://img.shields.io/badge/mongoose-880000.svg?style=plastic&logo=mongoose)
